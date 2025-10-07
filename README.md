@@ -411,8 +411,9 @@ MIT License
 
 ## Author
 
-Your Name
+Mohamed RedA Nkira
 
 ## Acknowledgments
 
 Built with PyTorch, Gymnasium, NumPy, and Matplotlib
+
